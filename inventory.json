@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Hyundai Surrey",
-  "generated_at": "2026-09-26T11:24:46",
+  "generated_at": "2026-10-08T14:38:49",
   "vehicle_count": 140,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "KM8JUCAC7DU687152",
       "stock": "TE03759",
       "color": "White",
+      "trim": "GLS",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/32f9d53d4b86.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2013/hyundai/tucson/surrey/bc/71158023/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2013/hyundai/tucson/surrey/bc/71158023/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 126025,
       "year": 2013,
       "make": "Hyundai",
-      "model": "Tucson GLS",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Kona Ultimate",
       "vin": "KM8K5CA51KU368894",
       "stock": "6226E",
       "color": "Yellow",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/bd2d61b2dfb3.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2019/hyundai/kona/surrey/bc/71189302/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2019/hyundai/kona/surrey/bc/71189302/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 47815,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Kona Ultimate",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Challenger SXT",
       "vin": "2C3CDZAG9NH117553",
       "stock": "TU04246",
       "color": "Black",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/8a1b21b7d212.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2022/dodge/challenger/surrey/bc/71340044/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2022/dodge/challenger/surrey/bc/71340044/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 101355,
       "year": 2022,
       "make": "Dodge",
-      "model": "Challenger SXT",
-      "condition": "used"
+      "model": "Challenger",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape SEL",
       "vin": "1FMCU9H6XNUA95662",
       "stock": "TU20218",
       "color": "Black",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/08a7f0cc02c9.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2022/ford/escape/surrey/bc/70599824/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2022/ford/escape/surrey/bc/70599824/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 33690,
       "year": 2022,
       "make": "Ford",
-      "model": "Escape SEL",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra Preferred",
       "vin": "KMHLM4AG8NU323681",
       "stock": "TU25920",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/4dfee7dcb2bc.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2022/hyundai/elantra/surrey/bc/71389593/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2022/hyundai/elantra/surrey/bc/71389593/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 75470,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra Preferred",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Kona LE",
       "vin": "KM8K22AB0NU783749",
       "stock": "6230E",
       "color": "Black",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/7442ca8ad7b2.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2022/hyundai/kona/surrey/bc/71389597/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2022/hyundai/kona/surrey/bc/71389597/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 23853,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Kona LE",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Venue Essential",
       "vin": "KMHRB8A37NU132676",
       "stock": "6229E",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/9edc6e0d0ad7.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2022/hyundai/venue/surrey/bc/71302983/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2022/hyundai/venue/surrey/bc/71302983/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 29445,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Venue Essential",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Palisade Urban",
       "vin": "KM8R3DGE3PU607564",
       "stock": "6232E",
       "color": "White",
+      "trim": "Urban",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/eba1b109d833.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2023/hyundai/palisade/surrey/bc/71399501/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2023/hyundai/palisade/surrey/bc/71399501/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 28020,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Palisade Urban",
-      "condition": "used"
+      "model": "Palisade",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Venue Preferred",
       "vin": "KMHRC8A3XPU278036",
       "stock": "TE03829",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/d09b7717464f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2023/hyundai/venue/surrey/bc/71014433/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2023/hyundai/venue/surrey/bc/71014433/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 70890,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Venue Preferred",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sorento EX",
       "vin": "5XYRHDLF0PG223005",
       "stock": "6222E",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/fe1a53163d17.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2023/kia/sorento/surrey/bc/70482174/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2023/kia/sorento/surrey/bc/70482174/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 63650,
       "year": 2023,
       "make": "Kia",
-      "model": "Sorento EX",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Sport",
       "vin": "2HKRS4H55RH102922",
       "stock": "6227E",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/868b8ea37eaf.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2024/honda/cr-v/surrey/bc/71189310/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2024/honda/cr-v/surrey/bc/71189310/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 23470,
       "year": 2024,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Fe Ultimate Calligraphy",
       "vin": "5NMP5DGL9SH138565",
       "stock": "UD-1385",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/93c0ff895bfd.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/santa-fe/surrey/bc/68171834/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/santa-fe/surrey/bc/68171834/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +240,17 @@
       "odometer_km": 8845,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Santa Fe Ultimate Calligraphy",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Fe XRT",
       "vin": "5NMP3DGL8SH103182",
       "stock": "TU20438",
       "color": "Green",
+      "trim": "XRT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/48b253655aa5.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/santa-fe/surrey/bc/71389666/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/santa-fe/surrey/bc/71389666/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +260,17 @@
       "odometer_km": 28155,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Santa Fe XRT",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG4SU084458",
       "stock": "D-N0844",
       "color": "Blue",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/4998694c38e2.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/elantra/surrey/bc/67904074/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/elantra/surrey/bc/67904074/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +280,17 @@
       "odometer_km": 4502,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona 1.6T Preferred Sport AWD",
       "vin": "KM8HDCA33SU293370",
       "stock": "D-N2933",
       "color": "Grey",
+      "trim": "1.6T Preferred Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/2f229b73827d.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/kona/surrey/bc/65817428/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/kona/surrey/bc/65817428/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +300,17 @@
       "odometer_km": 3887,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona 1.6T Preferred Sport AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona 1.6T Preferred Sport AWD",
       "vin": "KM8HDCA37SU219272",
       "stock": "D-N2192",
       "color": "Black",
+      "trim": "1.6T Preferred Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/853d8c4ef8fd.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/kona/surrey/bc/70891747/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/kona/surrey/bc/70891747/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +320,17 @@
       "odometer_km": 0,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona 1.6T Preferred Sport AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Sonata 2.5L Preferred-Trend AWD",
       "vin": "KMHL44JA6SA472311",
       "stock": "D-N4723",
       "color": "Blue",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/ab206a519466.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/sonata/surrey/bc/65139299/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/sonata/surrey/bc/65139299/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +340,17 @@
       "odometer_km": 10086,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Sonata 2.5L Preferred-Trend AWD",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson XRT AWD",
       "vin": "5NMJFCDE5SH515296",
       "stock": "D-N5152",
       "color": "Blue",
+      "trim": "XRT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/247cf5bfc91c.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/tucson/surrey/bc/65342181/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/tucson/surrey/bc/65342181/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +360,17 @@
       "odometer_km": 9056,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Tucson XRT AWD",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra Hybrid Capstone",
       "vin": "5TFVC5DB8SX113176",
       "stock": "TU51435",
       "color": "Grey",
+      "trim": "Capstone",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/aefb8e91060b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2025/toyota/tundra-hybrid/surrey/bc/71014479/?sale_class=used",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/toyota/tundra-hybrid/surrey/bc/71014479/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +380,17 @@
       "odometer_km": 21280,
       "year": 2025,
       "make": "Toyota",
-      "model": "Tundra Hybrid Capstone",
-      "condition": "used"
+      "model": "Tundra Hybrid",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Luxury Sedan w/Two-Tone Interior",
       "vin": "KMHLN4DJ6TU208952",
       "stock": "D-N2089",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8a5eacdd803f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/70220878/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/70220878/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +400,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury Sedan w/Two-Tone Interior",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Luxury Sedan w/Two-Tone Interior",
       "vin": "KMHLN4DJ4TU208934",
       "stock": "TU20893",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/dad7d1ef2959.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71327999/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-hybrid/surrey/bc/71327999/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +420,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury Sedan w/Two-Tone Interior",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
       "vin": "KMHLR4DF1TU183863",
       "stock": "TU18386",
       "color": "White",
+      "trim": "N N Line Ultimate DCT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/6bc05b27d50f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/69582796/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/69582796/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +440,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N Line Ultimate DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
       "vin": "KMHLR4DF1TU237937",
       "stock": "TU23793",
       "color": "Grey",
+      "trim": "N N Line Ultimate DCT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/2cd242988f00.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454134/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454134/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +460,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N Line Ultimate DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
       "vin": "KMHLR4DF7TU238462",
       "stock": "TU23846",
       "color": "Blue",
+      "trim": "N N Line Ultimate DCT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/df4dd06bf5ac.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454136/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454136/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +480,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N Line Ultimate DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
       "vin": "KMHLR4DF1TU234648",
       "stock": "TU23464",
       "color": "Black",
+      "trim": "N N Line Ultimate DCT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/13cf8beb3d81.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454137/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454137/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +500,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N Line Ultimate DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
       "vin": "KMHLR4DF6TU238842",
       "stock": "TU23884",
       "color": "Grey",
+      "trim": "N N Line Ultimate DCT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/4dff3e97c6bf.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454139/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/70454139/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +520,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N Line Ultimate DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
       "vin": "KMHLR4DF6TU277186",
       "stock": "TU27718",
       "color": "Grey",
+      "trim": "N N Line Ultimate DCT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/280ae6b976ed.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/71215045/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra-n/surrey/bc/71215045/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +540,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N Line Ultimate DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG8TU178986",
       "stock": "TU17898",
       "color": "White",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/b9eb354559e5.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69549661/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69549661/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +560,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG0TU188771",
       "stock": "TU18877",
       "color": "Black",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/7cd7d25e12c9.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69677377/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69677377/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +580,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG0TU186437",
       "stock": "TU18643",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/1d19b5561dfb.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69686973/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69686973/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +600,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG3TU189557",
       "stock": "TU18955",
       "color": "Black",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8b3a492c5dec.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69686978/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69686978/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +620,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG9TU199509",
       "stock": "TU19950",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/ac23d093c05c.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69810710/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69810710/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +640,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG8TU202643",
       "stock": "TU20264",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/787dff19b95a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69813321/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69813321/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +660,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG0TU202457",
       "stock": "TU20245",
       "color": "White",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/40d04b9987b2.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69870782/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/69870782/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +680,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG5TU219187",
       "stock": "TU21918",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/cbc1685be128.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70146696/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70146696/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +700,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG1TU219765",
       "stock": "TU21976",
       "color": "Blue",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/836bddbde46d.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70155261/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70155261/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +720,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DG8TU226182",
       "stock": "TU22618",
       "color": "Black",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/74e9b05bb217.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70235803/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70235803/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +740,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG6TU245359",
       "stock": "TU24535",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/1f8107f2aa83.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70380850/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70380850/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,14 +760,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG2TU238554",
       "stock": "TU23855",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8f6459fd34b4.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70388788/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70388788/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +780,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG8TU244357",
       "stock": "TU24435",
       "color": "White",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/e6c3524f1f4b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70471497/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70471497/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +800,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG9TU272202",
       "stock": "TU27220",
       "color": "White",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/6ee940ac212f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70785492/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70785492/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +820,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG3TU272230",
       "stock": "TU27223",
       "color": "White",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/61167078f01e.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70806683/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70806683/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +840,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DG0TU275344",
       "stock": "TU27534",
       "color": "Black",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/f7b4ae124a84.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70858228/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70858228/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +860,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG3TU277945",
       "stock": "TU27794",
       "color": "Black",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8bb132a32bc8.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70870568/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70870568/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +880,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DGXTU268613",
       "stock": "TU26861",
       "color": "Black",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/033cd3561748.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70880917/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/70880917/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +900,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DG0TU295657",
       "stock": "TU29565",
       "color": "Grey",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/09fd3f9a93b2.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71225281/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71225281/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +920,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG1TU296543",
       "stock": "TU29654",
       "color": "Blue",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/914b04057cb3.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71317762/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71317762/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +940,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG6TU296537",
       "stock": "TU29653",
       "color": "Blue",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/1abf15e8b098.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71317766/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71317766/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,13 +960,16 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Elantra",
       "vin": "KMHLM4DG3TU299248",
       "stock": "TU29924",
+      "trim": "Elantra",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/7c55c6dfae93.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71340149/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71340149/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -834,14 +979,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Elantra",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG4TU299260",
       "stock": "TU29926",
       "color": "Blue",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/be459c96e741.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71377174/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/elantra/surrey/bc/71377174/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -851,14 +999,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5 Preferred AWD Long Range",
       "vin": "KM8KNDDC3TU386234",
       "stock": "D-N3862",
       "color": "Blue",
+      "trim": "Preferred Long Range",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/3267dea7db50.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-5/surrey/bc/68421849/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-5/surrey/bc/68421849/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -868,14 +1019,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5 Preferred AWD Long Range",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5 Preferred AWD Long Range",
       "vin": "KM8KNDDC3TU404277",
       "stock": "TU40427",
       "color": "Grey",
+      "trim": "Preferred Long Range",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/010b22402996.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-5/surrey/bc/70538418/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-5/surrey/bc/70538418/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -885,14 +1039,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5 Preferred AWD Long Range",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
       "vin": "KM8MYFS5XTA013595",
       "stock": "TA01359",
       "color": "White",
+      "trim": "Preferred +",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/dcfabfd0b133.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/68197915/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/68197915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -902,14 +1059,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
       "vin": "KM8MYFS58TA019234",
       "stock": "TA01923",
       "color": "Grey",
+      "trim": "Preferred +",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/15b2f0777421.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/70046499/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/ioniq-9/surrey/bc/70046499/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -919,14 +1079,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
       "vin": "KM8HE3A63TU040946",
       "stock": "D-N0409",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/96545951cbc3.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70270550/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70270550/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -936,14 +1099,17 @@
       "odometer_km": 1725,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Ultimate Package",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
       "vin": "KM8HE3A65TU044951",
       "stock": "TU04495",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8a8132180486.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70796879/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70796879/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -953,14 +1119,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Ultimate Package",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD",
       "vin": "KM8HC3A61TU046234",
       "stock": "TU04623",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/cf58d2e2961b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70806680/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70806680/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -970,14 +1139,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD",
       "vin": "KM8HC3A67TU046240",
       "stock": "TU04624",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/f3a72e193cfe.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70806682/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70806682/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -987,14 +1159,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
       "vin": "KM8HE3A61TU045143",
       "stock": "TU04514",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/b333278bac62.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70810630/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70810630/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1004,14 +1179,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Ultimate Package",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Ultimate Package Two-Tone",
       "vin": "KM8HE3A65TU045548",
       "stock": "TU04554",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/aed79cb4afe2.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70880919/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona-electric/surrey/bc/70880919/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1021,14 +1199,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Ultimate Package Two-Tone",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 1.6T N Line AWD w/Two-Tone Roof",
       "vin": "KM8HACA39TU424487",
       "stock": "TU42448",
       "color": "Green",
+      "trim": "1.6T N Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/f3f42f15cffb.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69039076/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69039076/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1038,14 +1219,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 1.6T N Line AWD w/Two-Tone Roof",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB4TU440985",
       "stock": "TU44098",
       "color": "Red",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/30fd3e7bd3f2.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69678662/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69678662/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1055,14 +1239,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB0TU455158",
       "stock": "TU45515",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/5036a9b6b9b4.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69686975/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69686975/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1072,14 +1259,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB5TU459075",
       "stock": "TU45907",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/4105be051cd1.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69746912/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/69746912/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1089,14 +1279,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred FWD",
       "vin": "KM8HB3ABXTU476781",
       "stock": "TU47678",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/037da7d69e2a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70166918/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70166918/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1106,14 +1299,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred FWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB2TU482023",
       "stock": "TU48202",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/ed983f1eb56f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70220877/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70220877/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1123,14 +1319,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred FWD",
       "vin": "KM8HB3AB9TU476920",
       "stock": "TU47692",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/0a31c1807400.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70388793/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70388793/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1140,14 +1339,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred FWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB6TU491226",
       "stock": "TU49122",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/a4273b914299.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70388795/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70388795/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1157,14 +1359,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB7TU490358",
       "stock": "TU49035",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/a6d162ecf570.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70430353/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70430353/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1174,14 +1379,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 1.6T N Line Ultimate AWD",
       "vin": "KM8HECA39TU488730",
       "stock": "TU48873",
       "color": "Black",
+      "trim": "1.6T N Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/2ef665ad6827.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70535798/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70535798/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1191,14 +1399,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 1.6T N Line Ultimate AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 1.6T N Line AWD",
       "vin": "KM8HACA36TU489751",
       "stock": "TU48975",
       "color": "Red",
+      "trim": "1.6T N Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/0412f8b2e905.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70535801/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/kona/surrey/bc/70535801/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1208,14 +1419,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 1.6T N Line AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES28TU129071",
       "stock": "TU12907",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8c99fc00a3b7.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70471496/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70471496/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1225,14 +1439,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES2XTU133963",
       "stock": "TU13396",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/3eafcb48cfcd.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70609976/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70609976/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1242,14 +1459,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES29TU135056",
       "stock": "TU13505",
       "color": "Blue",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/77f4b686bd3d.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70665116/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70665116/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1259,14 +1479,17 @@
       "odometer_km": 61,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES22TU133729",
       "stock": "TU13372",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/387197e0cc10.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70665118/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70665118/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1276,14 +1499,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES25TU136396",
       "stock": "TU13639",
       "color": "Green",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/9fcf33728a2c.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70733772/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70733772/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1293,14 +1519,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES23TU135604",
       "stock": "TU13560",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/781b78fd4b44.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70756075/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70756075/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1310,14 +1539,17 @@
       "odometer_km": 61,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES26TU135919",
       "stock": "TU13591",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/a04df64d2afc.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70756077/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70756077/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1327,14 +1559,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES24TU136891",
       "stock": "TU13689",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/eaeba622bb19.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70768557/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/palisade/surrey/bc/70768557/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1344,14 +1579,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG10TU191675",
       "stock": "D-N1916",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/69bc2d1efb8b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70064548/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70064548/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1361,14 +1599,17 @@
       "odometer_km": 8500,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG18TU191584",
       "stock": "TU19158",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/acd89e890c09.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70080352/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70080352/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1378,14 +1619,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG14TU192070",
       "stock": "TU19207",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/7c67ea15684c.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70155262/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70155262/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1395,14 +1639,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Luxury AWD",
       "vin": "KM8P3DG15TU191807",
       "stock": "TU19180",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/548ab627e282.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70155263/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70155263/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1412,14 +1659,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Luxury AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG19TU194672",
       "stock": "TU19467",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/7ec7a78f6b7a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70319849/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70319849/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1429,14 +1679,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG19TU207839",
       "stock": "TU20783",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/26d3849c07b9.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70665117/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70665117/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1446,14 +1699,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w/Trend Pkg",
       "vin": "KM8P3DG1XTU207743",
       "stock": "TU20774",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/3eef3c617746.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70676409/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70676409/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1463,14 +1719,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD w/Beige",
       "vin": "KM8P5DG13TU208114",
       "stock": "TU20811",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/69d264ede128.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70733771/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/santa-fe-hybrid/surrey/bc/70733771/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1480,14 +1739,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD w/Beige",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Preferred-Trend AWD",
       "vin": "KMHL44JA4TA565586",
       "stock": "TA56558",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/fffabf45b8be.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/sonata/surrey/bc/69321848/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/sonata/surrey/bc/69321848/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1497,14 +1759,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Preferred-Trend AWD",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata N Line FWD",
       "vin": "KMHL54JC1TA565284",
       "stock": "TA56528",
       "color": "Grey",
+      "trim": "N Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/a7e11b30f960.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/sonata/surrey/bc/69333394/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/sonata/surrey/bc/69333394/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1514,14 +1779,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata N Line FWD",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD13TU484938",
       "stock": "TU48493",
       "color": "Black",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/e51b83f5717b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70182341/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70182341/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1531,14 +1799,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD15TU499120",
       "stock": "TU49912",
       "color": "Black",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/14dadca1c247.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70377676/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70377676/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1548,14 +1819,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD11TU499857",
       "stock": "TU49985",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/7716108e54ed.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70388789/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70388789/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1565,14 +1839,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD10TU495458",
       "stock": "TU49545",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/6065022fcc1a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70388794/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70388794/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1582,14 +1859,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD13TU496913",
       "stock": "TU49691",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/fafdbd5f931a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70388796/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70388796/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1599,14 +1879,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD14TU498458",
       "stock": "TU49845",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/437a6c8a3991.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70408137/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70408137/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1616,14 +1899,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD17TU495442",
       "stock": "TU49544",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/6bfdb4561de9.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70454138/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70454138/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1633,14 +1919,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD15TU496511",
       "stock": "TU49651",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/a50ac325c96e.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70454143/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70454143/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1650,14 +1939,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD17TU501708",
       "stock": "TU50170",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/c67981ba9346.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70454145/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70454145/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1667,14 +1959,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD16TU504437",
       "stock": "TU50443",
       "color": "Black",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/e8c527ea8b4f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70723502/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70723502/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1684,14 +1979,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD12TU513331",
       "stock": "TU51333",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/bb40e6f1229f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70796875/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70796875/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1701,14 +1999,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD16TU513381",
       "stock": "TU51338",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/6e96700fb95b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70796877/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70796877/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1718,14 +2019,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD14TU513394",
       "stock": "TU51339",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/79c780659314.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70806681/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70806681/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1735,14 +2039,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD17TU513339",
       "stock": "TU51333",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/fe5b19b16c27.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70819025/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70819025/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1752,14 +2059,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD15TU515008",
       "stock": "TU51500",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/1eb7e00f7799.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70880923/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70880923/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1769,14 +2079,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD18TU515004",
       "stock": "TU51500",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/9b24c89172cc.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70880925/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/70880925/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1786,14 +2099,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD11TU529195",
       "stock": "TU52919",
       "color": "Grey",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/9760b15f961c.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71174734/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71174734/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1803,14 +2119,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD16TU534862",
       "stock": "TU53486",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/9f97307e2254.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71369570/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71369570/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1820,14 +2139,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD15TU535307",
       "stock": "TU53530",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/e2b25e739188.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71369572/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71369572/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1837,14 +2159,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD16TU535557",
       "stock": "TU53555",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/1e19d9a5c8f9.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71378153/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson-hybrid/surrey/bc/71378153/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1854,14 +2179,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD",
       "vin": "3KMJBCDE6TE032028",
       "stock": "D-N0320",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/336cc0d4537a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/68495707/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/68495707/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1871,14 +2199,17 @@
       "odometer_km": 8126,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
       "vin": "3KMJCCDE5TE035774",
       "stock": "TE03577",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/4392c454f250.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/68921966/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/68921966/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1888,14 +2219,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
       "vin": "3KMJCCDEXTE036967",
       "stock": "TE03696",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/e6e6e7259db9.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/69039075/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/69039075/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1905,14 +2239,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD",
       "vin": "3KMJBCDE7TE038615",
       "stock": "D-N0386",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/f2aa12f48ce5.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/69363121/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/69363121/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1922,14 +2259,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD",
       "vin": "3KMJBCDE6TE038668",
       "stock": "TE03866",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/0f1507ef8f1b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/69363230/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/69363230/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1939,14 +2279,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
       "vin": "KM8JCCDE3TU487173",
       "stock": "TU48717",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/5fc18f367b0b.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/70723504/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/70723504/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1956,14 +2299,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
       "vin": "KM8JCCDE8TU491641",
       "stock": "TU49164",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/76564c7f9115.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/70880926/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/70880926/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1973,14 +2319,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
       "vin": "KM8JCCDE4TU491684",
       "stock": "TU49168",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/3c13787cc954.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/70939498/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/70939498/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1990,14 +2339,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD",
       "vin": "KM8JBCDE0TU494911",
       "stock": "TU49491",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/9a29fdb2ca7a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71140432/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71140432/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2007,14 +2359,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD",
       "vin": "KM8JBCDE4TU494913",
       "stock": "TU49491",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8b367aa8531f.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71174729/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71174729/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2024,14 +2379,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
       "vin": "KM8JCCDE2TU491487",
       "stock": "TU49148",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/5b2e32626b2a.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71174739/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71174739/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2041,14 +2399,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
       "vin": "KM8JCCDE9TU496489",
       "stock": "TU49648",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/3911f3c7b7b6.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71245927/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/tucson/surrey/bc/71245927/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2058,14 +2419,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferred IVT w/Two-Tone",
       "vin": "KMHRC8A34TU424313",
       "stock": "D-N4243",
       "color": "Blue",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/e39454d16392.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/68051605/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/68051605/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2075,14 +2439,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferred IVT w/Two-Tone",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Ultimate IVT w/Black Interior",
       "vin": "KMHRC8A33TU461725",
       "stock": "TU46172",
       "color": "Black",
+      "trim": "Ultimate IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/8e549854b001.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/69697748/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/69697748/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2092,14 +2459,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Ultimate IVT w/Black Interior",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Ultimate IVT w/Black Interior",
       "vin": "KMHRC8A36TU470645",
       "stock": "TU47064",
       "color": "Blue",
+      "trim": "Ultimate IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/2e9aa7619c67.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/70146698/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/70146698/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2109,14 +2479,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Ultimate IVT w/Black Interior",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferred IVT w/Two-Tone",
       "vin": "KMHRC8A31TU487031",
       "stock": "TU48703",
       "color": "Green",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/bb67052450d2.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/70880921/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/70880921/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2126,14 +2499,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferred IVT w/Two-Tone",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Essential IVT w/Two-Tone",
       "vin": "KMHRB8A36TU495225",
       "stock": "TU49522",
       "color": "Green",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/ba5ed4fbc475.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/71140430/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/71140430/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2143,14 +2519,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Essential IVT w/Two-Tone",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Venue",
       "vin": "KMHRC8A34TU498881",
       "stock": "TU49888",
       "color": "Black",
+      "trim": "Venue",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/9e30b18ba485.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/71369571/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2026/hyundai/venue/surrey/bc/71369571/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2160,14 +2539,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Venue",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Essential FWD",
       "vin": "KM8HA3AB5VU513595",
       "stock": "VU51359",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/d72ef2d8a43d.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/70856507/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/70856507/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2177,14 +2559,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona 2.0L Essential FWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona 1.6T N Line Ultimate AWD",
       "vin": "KM8HECA38VU521557",
       "stock": "VU52155",
       "color": "Black",
+      "trim": "1.6T N Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/f019ee5df4c3.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71083976/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71083976/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2194,14 +2579,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona 1.6T N Line Ultimate AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Luxury AWD",
       "vin": "KM8HBCAB6VU523551",
       "stock": "VU52355",
       "color": "Green",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/e18beb95512e.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71174732/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71174732/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2211,14 +2599,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona 2.0L Luxury AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Essential AWD",
       "vin": "KM8HACAB2VU514946",
       "stock": "VU51494",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/c4dbcfd9db77.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71202651/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71202651/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2228,14 +2619,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona 2.0L Essential AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Luxury AWD",
       "vin": "KM8HBCAB7VU528029",
       "stock": "VU52802",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/93db79489300.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71328000/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71328000/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2245,14 +2639,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona 2.0L Luxury AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona 1.6T N Line Ultimate AWD w/Two-Tone Roof",
       "vin": "KM8HECA37VU528838",
       "stock": "VU52883",
       "color": "Grey",
+      "trim": "1.6T N Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/91e2786d21cf.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71378154/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/kona/surrey/bc/71378154/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2262,14 +2659,17 @@
       "odometer_km": 50,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona 1.6T N Line Ultimate AWD w/Two-Tone Roof",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8RMESA1VU128290",
       "stock": "VU12829",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/7738098058e8.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/70993223/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/70993223/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2279,14 +2679,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8RMESA4VU128249",
       "stock": "VU12824",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/9764e2181048.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/71140431/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/palisade-hybrid/surrey/bc/71140431/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2296,14 +2699,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Palisade",
       "vin": "KM8RMES29VU143807",
       "stock": "D-N1438",
       "color": "Black",
+      "trim": "Palisade",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/5fda47bc2603.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/palisade/surrey/bc/70993218/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/palisade/surrey/bc/70993218/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2313,14 +2719,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade Palisade",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Ultimate Calligraphy AWD",
       "vin": "KM8P5DG14VU219657",
       "stock": "VU21965",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/f7d4a587f915.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71225292/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71225292/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2330,14 +2739,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Preferred AWD w/Trend Pkg",
       "vin": "KM8P3DG14VU219745",
       "stock": "VU21974",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/2f05ea91bc93.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71225307/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71225307/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2347,14 +2759,17 @@
       "odometer_km": 51,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Preferred AWD w/Trend Pkg",
       "vin": "KM8P3DG17VU220470",
       "stock": "VU22047",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/97f8348e602c.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71327997/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71327997/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2364,14 +2779,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai SANTA FE Ultimate Calligraphy AWD",
       "vin": "KM8P5DG15VU221031",
       "stock": "VU22103",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/new/aeacf5a3fe17.html",
       "source_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71328002/?sale_class=new",
       "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2027/hyundai/santa-fe/surrey/bc/71328002/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2381,8 +2799,10 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Hyundai",
-      "model": "SANTA FE Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
