@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Hyundai Surrey",
-  "generated_at": "2026-10-26T04:06:58",
+  "generated_at": "2026-10-26T04:18:45",
   "vehicle_count": 143,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1102,7 +1102,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 39167.0,
+      "price": 38667.0,
       "price_currency": "CAD"
     },
     {
@@ -1531,7 +1531,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 69267.0,
+      "price": 68767.0,
       "price_currency": "CAD"
     },
     {
