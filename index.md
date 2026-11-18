@@ -1,6 +1,6 @@
 # Jim Pattison Hyundai Surrey
 
- dealership in Surrey. AI-readable inventory mirror, about 138 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 139 vehicles.
 
 - Official website: https://www.jphyundaisurrey.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/

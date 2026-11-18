@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Hyundai Surrey",
-  "generated_at": "2026-11-18T05:38:28",
-  "vehicle_count": 138,
+  "generated_at": "2026-11-18T14:03:36",
+  "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -135,6 +135,17 @@
       "model": "CR-V",
       "condition": "used",
       "price": 39500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Elantra Preferred",
+      "vin": "KMHLM4DG6RU649321",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-hyundai-surrey-mirror/used/dde943acdb1e.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 23900.0,
       "price_currency": "CAD"
     },
     {
